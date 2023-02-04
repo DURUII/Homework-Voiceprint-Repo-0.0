@@ -77,7 +77,7 @@ def load_audio(audio_path,
     # 数据增强
     if mode == 'train' and augmentors is not None:
         for key, augmentor in augmentors.items():
-            if key == 'specaug':
+            if key != 'speed':
                 features = augmentor(features)
     # 归一化
     mean = np.mean(features, 0, keepdims=True)
