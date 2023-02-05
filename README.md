@@ -47,7 +47,7 @@ pip install -r requirements.txt -i https://mirrors.aliyun.com/pypi/simple/
 
 最后，
 
-- [ ] 在终端中运行：``，计算阈值
+- [ ] 在终端中运行：`python eval.py`，计算阈值
 
 # 3. 声纹相似度量与声纹数据库
 - [x] 如果你跳过了第二步，请确认是否已经将`models.zip`解压至当前工作目录。
