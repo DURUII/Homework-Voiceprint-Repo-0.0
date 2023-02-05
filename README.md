@@ -42,8 +42,8 @@ pip install -r requirements.txt -i https://mirrors.aliyun.com/pypi/simple/
 
 其次，
 
-- [ ] 在终端中运行：``，训练模型
-- [ ] 在终端中运行：``，查看进展
+- [ ] 在终端中运行：`python .\train.py`，训练模型
+- [ ] 在终端中运行：`visualdl --logdir ./log --port 8080`，查看进展（`http://127.0.0.1:8080`）
 
 最后，
 
