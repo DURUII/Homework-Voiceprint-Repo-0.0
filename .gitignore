@@ -1,6 +1,7 @@
 .idea/
 __pycache__/
-dataset/
+dataset/zhvoice
+dataset/sound-bible
 models/
 log/
 temp/
