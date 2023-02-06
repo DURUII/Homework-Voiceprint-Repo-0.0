@@ -2,7 +2,7 @@ noise:
   min_snr_dB: 10
   max_snr_dB: 30
   noise_path: "dataset/sound-bible"
-  prob: 0.3
+  prob: 0.4
 
 speed:
   min_speed_rate: 0.9
@@ -26,4 +26,4 @@ specaug:
   adaptive_size_ratio: 0
   max_n_time_masks: 20
   replace_with_zero: true
-  prob: 0.2
+  prob: 0.3
