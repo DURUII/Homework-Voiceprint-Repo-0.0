@@ -1,5 +1,5 @@
 # 如何让风扇转起来
-适合初学者。
+适合初学者。经测试，在VoxCeleb
 
 # 1. 环境配置
 实际测试环境：
@@ -44,6 +44,8 @@ pip install -r requirements.txt -i https://mirrors.aliyun.com/pypi/simple/
 
 - [ ] 在终端中运行：`python .\train.py`，训练模型
 - [ ] 在终端中运行：`visualdl --logdir ./log --port 8080`，查看进展（`http://127.0.0.1:8080`）
+
+![](DURUII/res/res.svg)
 
 最后，
 
