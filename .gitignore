@@ -2,7 +2,6 @@
 __pycache__/
 dataset/zhvoice
 dataset/sound-bible
-models/
 log/
 temp/
 audio_db/
