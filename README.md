@@ -2,13 +2,25 @@
 适合初学者。经测试，在VoxCeleb
 
 # 1. 环境配置
-实际测试环境：
+本地测试环境：
 
 LAPTOP: ROG Zephyrus G15
 
 OS: Windows 11 家庭中文版 21H2
 
 GPU: **NVIDIA** GeForce RTX 3080 Laptop GPU
+
+[云端测试环境](https://featurize.cn?s=cec3c4645c8c4946ba70369eb99d5529)：
+
+CPU: 18 核 Xeon Gold 6142
+
+GPU: 3 块 RTX 3080， 共 31.5 GB 显存
+
+Docker: v20.10.10
+
+CUDA: v11.2
+
+PyTorch: v1.10
 
 <br/>
 基本依赖：
